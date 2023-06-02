@@ -1,14 +1,9 @@
-h2.intro {
+.intro {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: #626262;
-}
-
-p.intro {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: #FF0000;
+  color:#FF0000;
   font-weight: bold;
 }
 
-img.intro {
+img {
   padding: 100px;
 }
